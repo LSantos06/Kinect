@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\.android\build-cache\e47e36dcf664dc941e3fb1944f185f9791414a44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6232d69fe51547a70e677d60e5980459afb7da14">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_2f1ae37e584c529def17f8faa95d44bd776398cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\.android\build-cache\5e58d689800d7402cb5e43f2e32270e679c20203\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_d3bb97a5e3e2a5cfc2b6eeb1fef4a419bc562d01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\.android\build-cache\9942f42df88235c66c74382ca019c3f2102f7577\output\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\VuforiaUnityPlayer_13f7a012a4c500f808f963881df7e893a7ebdf61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\.android\build-cache\9942f42df88235c66c74382ca019c3f2102f7577\output\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="53094572566d88f826439518bd3ff774b3ed36cb">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\Vuforia_82fbbd27fe2fed11ad73dd79479f41407aff92a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Unity Projects\PIBIC\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_1fc79a62a0be219bf1b3401a4748537ae77d529c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Unity Projects\PIBIC\Temp\gradleOut\libs\libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\libprotobuf-java-nano_3f8d2c8bf4efc3a6cfe48f7c8271623815ee172f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\.android\build-cache\9942f42df88235c66c74382ca019c3f2102f7577\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="E:\Unity Projects\PIBIC\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_85920d3cf578c804d00fb22fed1e87b53e130d9e.jar" />
+    </item>
+
+</items>
